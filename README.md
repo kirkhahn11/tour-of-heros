@@ -1,5 +1,1 @@
-# tour-of-heros
-# curated-frontend
-# rest-api-ui
-# rest-api-ui
-# rest-api-ui
+# demo-rest-api-ui
